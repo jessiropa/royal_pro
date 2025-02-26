@@ -53,13 +53,13 @@ Aplikasi tanda tangan farmasi ini dibuat bertujuan untuk membantu pihak farmasi 
 ### TAMPILAN HASIL TANDA TANGAN PASIEN
 ![LIHAT RESEP OBAT AKHIR](image/ttd_pasien.png) 
 
-## MJKN PRO 
+## MJKN PRO (Mobile JKN)
 Aplikasi MJKN PRO merupakan aplikasi APM (Anjungan Pendaftaran Mandiri) untuk mempermudah dan mempersingkat waktu pasien dalam melakukan pendaftaran ke poli
 
 ### Kontribusi Saya pada Fitur Aplikasi MJKN PRO 
 - Surat Kontrol BPJS untuk melakukan edit surat kontrol pada pasien yang kontrol terlambat (mundur) dari tanggal yang telah di tentukan dan mengganti dokter berdasarkan kondisi tertentu contohnya dokter tersebut cuti mendadak. 
 
-### Cara Kerja Aplikasi Tanda Tangan Farmasi
+### Cara Kerja Aplikasi MJKN PRO
 - Terdapat dua jenis surat kontrol yang bisa digunakan pada aplikasi ini yaitu Surat Kontrol Berbarcode dan Surat Kontrol yang memiliki keterangan "Surat Kontrol sudah di terbitkan ditanggal yang sama"
 - Jika Surat Kontrol Berbarcode maka Petugas APM akan memasukan nomor surat kontrol kemudian klik via no surat kontrol maka akan tampil informasi surat kontrol seperti nama dokter, nama poli dan tanggal kontrol. Petugas APM menggantikan tanggal kontrol untuk tanggal yang dilakukan kontrol kemudian simpan. 
 - Jika Surat Kontrol memiliki keterangan "Surat Kontrol sudah diterbitkan ditanggal yang sama" maka Petugas APM memasukan nomor kartu BPJS pasien kemudian memilih bulan dan tahun sesuai dengan kedatangan pasien pada saat itu atau berpatokan pada surat kontrol tersebut di rencakan. Tampilannya akan sama seperti via no surat kontrol.
